@@ -19,7 +19,7 @@ pycodestyle==2.6.0
 pyjokes==0.6.0
 PyJWT==1.7.1
 pylint==2.6.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2021.1
 requests==2.26.0
 six==1.15.0
